@@ -1,0 +1,62 @@
+[
+  {
+    "name": "RPS GAME",
+    "desc": "Rock Paper Scissor game developed using HTML , CSS and JAVASCRIPT and hosted using NETLIFY",
+    "image": "RPS",
+    "category": "android",
+    "links": {
+      "view": "https://rpscenter.netlify.app/",
+      "code": "https://github.com/vijesharumugam/RPS-Game"
+    }
+  },
+  {
+    "name": "Image Classifier",
+    "desc": "Image Classifier developed using Python Streamlit and deployed using Render",
+    "image": "image",
+    "category": "android",
+    "links": {
+      "view": "https://imageclassifier-dqeu.onrender.com/",
+      "code": "https://github.com/vijesharumugam/ImageClassifier"
+    }
+  },
+  {
+    "name": "Pennentia E-commerce",
+    "desc": "Pennentia is a frontend website developed using HTML , CSS and JS . Hosted in Netlify",
+    "image": "pennentia",
+    "category": "android",
+    "links": {
+      "view": "https://pennentia.netlify.app/",
+      "code": "https://github.com/vijesharumugam/pennentia"
+    }
+  },
+  {
+    "name": "Todo Application (Java Swing + MySQL)",
+    "desc": "A simple Java Swing-based Todo application backed by a MySQL database.",
+    "image": "Todo2",
+    "category": "android",
+    "links": {
+      "view": "https://github.com/vijesharumugam/todo-java",
+      "code": "https://github.com/vijesharumugam/todo-java"
+    }
+  },
+  {
+    "name": "Expense Tracker (Java Swing + MySQL)",
+    "desc": "A desktop Expense Tracker built with Java Swing and MySQL. It lets you manage categories and expenses with CRUD operations and a simple launcher UI.",
+    "image": "expense3",
+    "category": "android",
+    "links": {
+      "view": "https://github.com/vijesharumugam/ExpenseTracker-java",
+      "code": "https://github.com/vijesharumugam/ExpenseTracker-java"
+    }
+  },
+  {
+    "name": "Youtube Home page Replica",
+    "desc": "Replica of Youtube home page developed using HTML and CSS and deployed in Github",
+    "image": "YT",
+    "category": "android",
+    "links": {
+      "view": "https://github.com/vijesharumugam/ExpenseTracker-java",
+      "code": "https://github.com/vijesharumugam/youtube_replica"
+    }
+  }
+]
